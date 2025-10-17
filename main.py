@@ -23,7 +23,7 @@ def main():
     print("=== Supabase Database Demo ===\n")
     
     # Example usage - Replace with your actual data
-    name = "John_Doe"  # Replace with your name_surname
+    name = "lim_ngjueee"  # Replace with your name_surname
     color = "Blue"     # Replace with your favourite_color
     
     print(f"Inserting: {name} with favorite color: {color}")
